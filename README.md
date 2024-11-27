@@ -58,4 +58,4 @@ GET /api/rooms/
 This endpoint retrieves a list of all available chat rooms.
 
 ## Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home%20page.png)
