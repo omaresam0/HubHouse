@@ -34,10 +34,10 @@ HubHouse is a web application designed for creating chat rooms where users can d
 
 1. Clone the repository to your local machine:
 
-   ```
-   git clone https://github.com/yourusername/hubhouse.git
-   cd hubhouse
-   ```
+ ```
+ git clone https://github.com/yourusername/hubhouse.git
+ cd hubhouse
+ ```
 Install the required dependencies:
 ```
 pip install -r requirements.txt
